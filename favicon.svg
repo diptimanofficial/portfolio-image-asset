@@ -8,7 +8,7 @@
 
   <!-- Embedded image -->
   <image
-    href="https://raw.githubusercontent.com/diptimanofficial/portfolio-image-asset/blob/main/SVG.png"
+    href="https://raw.githubusercontent.com/diptimanofficial/portfolio-image-asset/main/SVG.png"
     x="0"
     y="0"
     width="32"
@@ -17,5 +17,6 @@
     preserveAspectRatio="xMidYMid slice"
   />
 </svg>
+
 
 
